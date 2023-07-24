@@ -7,6 +7,7 @@ This project implements object tracking, motion heatmap generation, and social d
 - OpenCV
 - Pandas
 - NumPy
+- YOLO v3
 
 ## Installation
 
