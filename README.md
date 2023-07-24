@@ -55,6 +55,21 @@ The script generates the following outputs:
     - `place_df.csv`: Contains information about entries, exits, IDs, and centroids.
     - `user_df.csv`: Contains information about object IDs, centroids, and timestamps.
     - `violations_df.csv`: Contains information about social distancing violations.
+  
+
+## Drawing a Gate Line
+
+This project includes a functionality that allows users to manually draw a line gate. The points from the drawn line are then used in the main function for further calculations.
+
+To use this feature, run the `draw_line.py` script. You will be prompted to manually draw a line gate. After you have drawn the line gate, the points will be saved and used for further calculations in the project.
+
+```bash
+python draw_line.py
+```
+![ezgif com-video-to-gif](https://github.com/mustafarrag/social-distancing-opencv/assets/39211751/f89a0b29-eaa9-48f8-b2fc-5f4a82cebc91)
+
+
+
 
 
 
