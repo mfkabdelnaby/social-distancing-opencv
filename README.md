@@ -1,6 +1,22 @@
 # Object Tracking and Social Distancing Detection Using Computer Vision
 This project implements object tracking, motion heatmap generation, and social distancing violation detection in video footage. It is primarily built with Python, OpenCV, and YOLO (You Only Look Once) model for object detection.
 
+## Developed Using
+
+- Python 3.10
+- OpenCV
+- Pandas
+- NumPy
+
+## Installation
+
+To install the required libraries, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## Features
 * **Object Tracking:** The project uses the Centroid Tracking algorithm to track objects in video footage. It assigns a unique ID to each object and tracks its movement across frames.
 
