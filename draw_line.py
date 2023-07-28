@@ -2,7 +2,7 @@ import cv2
 import imutils
 import numpy as np
 
-video_path = "videos/TownCentreXVID.avi"
+video_path = "src/videos/TownCentreXVID.avi"
 
 
 def manual_draw(event, x, y, flags, param):
